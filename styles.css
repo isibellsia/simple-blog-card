@@ -50,3 +50,12 @@ h2{
     gap: 15px;
     font-weight: 800;
 }
+
+@media (max-width: 500px) {
+    .container {
+        padding: 16px; 
+        width: 180px;
+        height: auto;
+    }
+
+}
